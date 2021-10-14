@@ -1,9 +1,10 @@
-- 213 error fixed
-- Fix(sql): tinyint
-- Tempfix(client/main.lua)
-- Moved Notification Event for Inventory Wipe
-- Updated all events to the new RegisterNetEvent and got rid of unneeded handlers
-- Whatsapp Messages fix
-- Update fxmanifest.lua
-- Added Discord rich
-- Added QBCore doc
++ Se agrega nuevo script de patines. ( /patines y /quitarpatines)
++ Se agrega nuevo script de camión de comida rápida. ( BLIP AGREGADO )
++ Se agrega nuevo mapeo de concesionaria de vehículos importandos. ( BLIP CAMBIADO )
++ Se agregan más vehículos a la venta de vehículos importados para variedad.
++ Se agrega nueva pantalla de carga.
+
+* Se optimizan algunos scripts para rendimiento.
+
+- Se eliminan algunos scripts para optimización.
+- Se eliminan algunos mapeos para optimización.
