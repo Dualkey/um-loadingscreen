@@ -107,3 +107,22 @@
 
 - [ Se elimina el sistema de contratación por medio del menú de jefe.]
 - [ Se eliminan mapeos para optimización ]
+
+# // ACTUALIZACIÓN - 14/10/21 //
+
+### + [ AGREGADO ]
+
++ [ Se agrega nuevo script de patines. ( /patines y /quitarpatines) ]
++ [ Se agrega nuevo script de camión de comida rápida. ( BLIP AGREGADO ) ]
++ [ Se agrega nuevo mapeo de concesionaria de vehículos importandos. ( BLIP CAMBIADO ) ]
++ [ Se agregan más vehículos a la venta de vehículos importados para variedad. ]
++ [ Se agrega nueva pantalla de carga. ]
+
+### * [ CAMBIOS ]
+
+* [ Se optimizan algunos scripts para rendimiento. ]
+
+### - [ ELIMINADO ]
+
+- [ Se eliminan algunos scripts para optimización. ]
+- [ Se eliminan algunos mapeos para optimización. ]
