@@ -2,7 +2,7 @@
 
 ### + [ AGREGADO ]
 
-+ [ Nueva interfaz
++ [ Nueva interfaz ]
 + [ Aplicaciones con funciones nuevas (Reloj con alarmas y cronometro, Slither.io, solitario...) ]
 + [ Control del brillo del teléfono ]
 + [ Función de modo oscuro y claro ]
