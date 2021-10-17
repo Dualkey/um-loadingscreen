@@ -1,10 +1,8 @@
-14/10/21 
+17/10/21 
 
-- Se agrega nuevo script de patines. [/patines & /quitarpatines]
-- Se agrega nuevo script de camión de comida rápida. [BLIP AGREGADO]
-- Se agrega nuevo mapeo de concesionaria de vehículos importandos. [BLIP CAMBIADO]
-- Se agregan más vehículos a la venta de vehículos importados para variedad.
-- Se agrega nueva pantalla de carga.
-- Se optimizan algunos scripts para rendimiento.
-- Se eliminan algunos scripts para optimización.
-- Se eliminan algunos mapeos para optimización.
+- Se actualizan algunos scripts que mejoran el rendimiento.
+- Se actualizan algunos scripts que arreglan varios bugs en algunos menús.
+- Se agrega sistema de abrir/meterse al maletero con animaciones.
+- Se agrega el nombre de usuario de discord al F10 y se optimiza el script.
+- Se modifica el 90% de los scripts con la ID única.
+- Se modifica el tiempo de borrado de vehículos de 7 días > 30 días, vehículos inactivos serán eliminados después de ese tiempo para evitar "lag".
