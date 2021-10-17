@@ -1,3 +1,17 @@
+# // ACTUALIZACIÓN - 17/10/21 //
+
+### + [ AGREGADO ]
+
++ [ Se agrega sistema de abrir/meterse al maletero con animaciones. ]
++ [ Se agrega el nombre de usuario de discord al F10 y se optimiza el script. ]
+
+### * [ CAMBIOS ]
+
+* [ Se modifica el 90% de los scripts con la ID única. ]
+* [ Se modifica el tiempo de borrado de vehículos de 7 días > 30 días, vehículos inactivos serán eliminados después de ese tiempo para evitar "lag". ]
+* [ Se actualizan algunos scripts que mejoran el rendimiento. ]
+* [ Se actualizan algunos scripts que arreglan varios bugs en algunos menús. ]
+
 # // ACTUALIZACIÓN - 14/10/21 //
 
 ### + [ AGREGADO ]
