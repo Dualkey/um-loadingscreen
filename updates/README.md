@@ -1,3 +1,17 @@
+# // ACTUALIZACIÓN - 28/10/21 //
+
+### + [ AGREGADO ]
+
++ [ Se agregan nuevos rangos para facción "Police" y "Ambulance". ]
++ [ Se agrega nuevo sistema de mostrar la placa para los policías. ]
+
+### * [ CAMBIOS ]
+
+* [ Se modifica el script del inventario, ahora hay animación diferente para policías en servicio al momento de guardar el arma o sacarla. ]
+* [ Se modifican algunas cosas de información interna que provocaba problemas al buscar el servidor en el buscador. ]
+* [ Se modifican algunas cosas con el dominio para que la conexión sea más estable. ]
+* [ Se actualizan algunos scripts que arreglan pequeños fallos no tan evidentes. ]
+
 # // ACTUALIZACIÓN - 17/10/21 //
 
 ### + [ AGREGADO ]
