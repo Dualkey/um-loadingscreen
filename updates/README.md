@@ -11,6 +11,7 @@
 * [ Se modifican algunas cosas de información interna que provocaba problemas al buscar el servidor en el buscador. ]
 * [ Se modifican algunas cosas con el dominio para que la conexión sea más estable. ]
 * [ Se actualizan algunos scripts que arreglan pequeños fallos no tan evidentes. ]
+* [ Ahora se mostrarán 2 fechas de actualizaciones cuando sean pequeños cambios en la intro del servidor. ]
 
 # // ACTUALIZACIÓN - 17/10/21 //
 
