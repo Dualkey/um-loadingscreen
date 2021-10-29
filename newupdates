@@ -1,7 +1,7 @@
 28/10/21
 
 - Se agregan nuevos rangos para facción "Police" y "Ambulance".
-- Se agregan nuevas posiciones de teleport en el elevadores del hospital Pillbox.
+- Se agregan nuevas posiciones de teleport en los elevadores del hospital Pillbox.
 - Se agrega nuevo sistema de mostrar la placa para los policías.
 - Se modifica el script del inventario, ahora hay animación diferente para policías en servicio al momento de guardar el arma o sacarla.
 - Se modifican algunas cosas de información interna que provocaba problemas al buscar el servidor en el buscador.
