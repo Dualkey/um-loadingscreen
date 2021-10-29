@@ -3,7 +3,7 @@
 ### + [ AGREGADO ]
 
 + [ Se agregan nuevos rangos para facción "Police" y "Ambulance". ]
-+ [ Se agregan nuevas posiciones de teleport en el elevadores del hospital Pillbox. ]
++ [ Se agregan nuevas posiciones de teleport en los elevadores del hospital Pillbox. ]
 + [ Se agrega nuevo sistema de mostrar la placa para los policías. ]
 
 ### * [ CAMBIOS ]
